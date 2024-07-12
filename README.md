@@ -1,4 +1,4 @@
-## SHIFT_ML
+## ML-SHIFT
 # Price forecast for apartments, flats, and houses in the Moscow region
 # Deep Palch Learning Team ML Project
 
